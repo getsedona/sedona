@@ -1,6 +1,6 @@
 # Дизайн-система
 
-Набор правил для построения сайтов.
+Набор правил и рекомендаций для построения сайтов.
 
 ## Составные части
 
@@ -8,3 +8,4 @@
 * [blocks](https://github.com/constlab/sedona-blocks)
 * components
 * fragments
+* admin
