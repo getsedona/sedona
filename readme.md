@@ -4,8 +4,6 @@
 
 ## Составные части
 
-* [basis](https://github.com/constlab/sedona-basis)
-* [blocks](https://github.com/constlab/sedona-blocks)
-* components
-* fragments
-* admin
+* [Фундамент](https://github.com/constlab/sedona-basis)
+* [Блоки](https://github.com/constlab/sedona-blocks) / Компоненты
+* Админка / Фрагменты
