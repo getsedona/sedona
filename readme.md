@@ -14,6 +14,7 @@
 
 ## Стиль
 
+* [Базовые цвета](https://codepen.io/maxsof/pen/vjKPBx/)
 * [Иконки](https://material.io/icons/)
 
 ## Принципы
