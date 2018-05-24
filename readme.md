@@ -2,21 +2,16 @@
 
 Набор правил, рекомендаций и лучших практик для создания качественных сайтов и приложений.
 
-## Разработка
+## Вёрстка
 
-### Составные части
+### [Фундамент](https://github.com/constlab/sedona-basis)
 
-* [Фундамент](https://github.com/constlab/sedona-basis)
-* [Блоки](https://github.com/constlab/sedona-blocks) / Компоненты
-* Админка / Фрагменты
+Стартовый шаблон для вёрстки сайта. Содержит настройку типографики, цветов, иконок, сетки, отступов, анимаций и т. д. для дальнейшего подключения блоков и работы оных на основе этих настроек.
 
-### [Работа с Гитом](https://github.com/constlab/sedona/blob/master/git.md)
+### [Блоки](https://github.com/constlab/sedona-blocks)
 
-## Стиль
-
-* [Базовые цвета](https://codepen.io/maxsof/pen/vjKPBx/)
-* [Иконки](https://material.io/icons/)
+Набор типовых блоков для построения структуры страниц.
 
 ## Принципы
 
-—
+### [Работа с Гитом](https://github.com/constlab/sedona/blob/master/git.md)
