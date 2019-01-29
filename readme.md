@@ -4,11 +4,7 @@
 
 ## Разработка
 
-### [Start](https://github.com/constlab/sedona-start)
-
-Стартовый шаблон для верстки сайта
-
-### [Components](https://github.com/constlab/sedona-components)
+### [Компоненты](https://github.com/constlab/sedona-components)
 
 Набор типовых блоков для составления структуры страниц
 
