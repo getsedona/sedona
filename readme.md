@@ -6,8 +6,6 @@
 
 ### [Компоненты](https://github.com/constlab/sedona-components)
 
-Набор типовых блоков для составления структуры страниц
+### [Работа с Гитом](https://github.com/constlab/sedona/blob/master/git.md)
 
 ## Принципы
-
-### [Работа с Гитом](https://github.com/constlab/sedona/blob/master/git.md)
