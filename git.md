@@ -36,7 +36,7 @@
 * Небольшие (однокоммитные) исправления или дополнения можно сделать в ветке `dev`
 * Для больших и долгих фич от ветки `dev` ответвляется новая ветка `%FEATURE%`
 
-### Слияние `%FEATURE%` с веткой `dev`
+### Слияние `%FEATURE%` с веткой `dev`:
 
 ```bash
 git pull origin dev
@@ -45,7 +45,7 @@ git checkout dev
 git merge %FEATURE%
 ```
 
-### Слияние `dev` с веткой `master`
+#### Слияние `dev` с веткой `master`:
 
 ```
 git checkout master
