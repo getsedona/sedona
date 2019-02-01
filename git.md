@@ -41,7 +41,6 @@
 
 ```bash
 git pull origin dev
-npm run dev
 git checkout dev
 git merge %FEATURE%
 ```
