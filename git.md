@@ -61,3 +61,58 @@ git merge dev
 * 1.0.`1` — *patch* — если изменения незначительные (исправление мелких ошибок)
 * 1.`1`.0 — *minor* — если появились новые методы или функциональность, не влияющие на уже существующие
 * `2`.0.0 — *major* — в случае модификации кода без обратной совместимости с предыдущей версией
+
+## Git-flow
+
+### Старт
+
+```bash
+# Инициализация
+git flow init
+
+# Настройка
+Branch name for production releases: master
+Branch name for "next release" development: dev
+Feature branches: feature/    
+Bugfix branches: bugfix/
+Release branches: release/
+Hotfix branches: hotfix/
+Support branches: support/
+Version tag prefix: v
+
+# Отправка созданной дев-ветки на удаленный репозиторий
+git push origin dev
+```
+
+### Фичи
+
+```bash
+git flow feature start <name>   # создание
+git flow feature finish <name>  # завершение
+
+git flow feature publish <name> # публикация
+git flow feature track <name>   # получение
+```
+
+### Релизы
+
+```bash
+git flow release start <version>   # создание
+git flow release finish <version>  # завершение
+
+git flow release publish <version> # публикация
+git flow release track <version>   # получение
+
+# Отправка созданного тега на удаленный репозиторий
+git push origin --tags
+```
+
+### Исправления
+
+```bash
+git flow hotfix start <version>  # создание
+git flow hotfix finish <version> # завершение
+
+# Отправка созданного тега на удаленный репозиторий
+git push origin --tags
+```
