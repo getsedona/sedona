@@ -64,6 +64,8 @@ git merge dev
 
 ## Git-flow
 
+[Шпаргалка](https://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html)
+
 ### Старт
 
 ```bash
